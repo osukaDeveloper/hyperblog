@@ -86,3 +86,56 @@ Author: Osuka <osuka@osuka-pc.home>
 Date:   Mon Jun 27 00:44:56 2022 -0500
 
     Mi historia primera version
+commit f3b215b2ef7189e2f5b284bd7b0c3583f2aae0f0
+Author: Osuka <osuka@osuka-pc.home>
+Date:   Tue Jun 28 17:51:50 2022 -0500
+
+    Sin cabecera
+
+commit de800980656d3c478718b1f2a2f945df37e86142
+Author: Osuka <osuka@osuka-pc.home>
+Date:   Tue Jun 28 17:17:38 2022 -0500
+
+    Pagina BlogPost
+
+commit 7949117e0768a28fd4fe0957ce99e99b8eb0605d
+Author: Osuka <osuka@osuka-pc.home>
+Date:   Tue Jun 28 17:12:23 2022 -0500
+
+    Estilos css
+
+commit 6996d55af9a62e0b365e14239eff43d2c73b9669
+Author: Osuka <osuka@osuka-pc.home>
+Date:   Tue Jun 28 00:13:15 2022 -0500
+
+    Cambio de vida
+
+commit 3405064464c62956a64ae973fe5e6cbfc98cae72
+Author: Osuka <osuka@osuka-pc.home>
+Date:   Tue Jun 28 00:12:03 2022 -0500
+
+    Arranco el proyecto real con html y css
+
+commit ba0998c3dfd13b6925d11d81ace55eec0889dd3a
+Author: Osuka <osuka@osuka-pc.home>
+Date:   Mon Jun 27 01:00:23 2022 -0500
+
+    Continuacion de la historia v3
+
+commit d22729675ba616b7fcfe2dd252aad4f651c1e434
+Author: Osuka <osuka@osuka-pc.home>
+Date:   Mon Jun 27 00:58:55 2022 -0500
+
+    Continuacion de la historia v2
+
+commit 5974b2e501157f8ba532b870d45cf3adf8633e7e
+Author: Osuka <osuka@osuka-pc.home>
+Date:   Mon Jun 27 00:51:25 2022 -0500
+
+    Continuacion de mi historia
+
+commit 1d0db9873e39a00f6606d69e92c403e26cb6add9
+Author: Osuka <osuka@osuka-pc.home>
+Date:   Mon Jun 27 00:44:56 2022 -0500
+
+    Mi historia primera version
