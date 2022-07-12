@@ -258,6 +258,7 @@ img{
 .curso__label, 
 .curso__info{
     font-size: 2rem;
+    color: red;
 }
 
 /** Página Contacto **/
